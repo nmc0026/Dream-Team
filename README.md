@@ -56,7 +56,7 @@ Shelter API: https://opendata.dc.gov/datasets/homeless-shelter-locations/api
 ## Demo
 
 
-#Dream Team
+# Dream Team Credits 
 
 | Names         | Package       |
 | ------------- |:-------------:| 
