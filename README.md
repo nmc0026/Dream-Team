@@ -9,7 +9,7 @@ Cell phones are a great way to locate resources that can help people rise out of
 
 
 ## Category
-### *Housing/Maps & Navigation
+### *Housing/Maps & Navigation*
 Provides availability of shelters and resources in a person's region from Google Maps and Government API.
 
 
