@@ -14,22 +14,22 @@ Provides availability of shelters and resources in a person's region from Google
 
 
 ## Access
-### *Mobile-first
+### *Mobile-first*
 Accessible to those that are unsheltered and can use to contact resources directly.
 
 
 ## Market
-### *Experiencing or about to experience homelessness
+### *Experiencing or about to experience homelessness*
 This appilcation is valubale to everyone, from being an advocate to those needing these services.
 
 
 ## Habit
-### *Avaiable 24/7/365
+### *Avaiable 24/7/365*
 Being able to find resources/shelters works as an incentive on its own
 
 
 ## Scope
-### *Usage of the application now and beyond 
+### *Usage of the application now and beyond* 
 Initially the app will start as a search for homeless shelters and basic resources:
 
 1. Shelters
@@ -40,7 +40,7 @@ Initially the app will start as a search for homeless shelters and basic resourc
 
 5. Mental Health
 
-### *Room to Expand:
+### *Room to Expand:*
 + Job placement and searching
 
 + Free dental and medical care
