@@ -11,7 +11,7 @@ Cell phones are a great way to locate resources that can help people rise out of
 Provides availability of shelters and resources in a person's region from Google Maps and Government API.
 
 
-## Mobile
+## Access
 ### Mobile-first
 Accessible to those that are unsheltered and can use to contact resources directly.
 
@@ -26,13 +26,20 @@ Being able to find resources/shelters works as an incentive on its own
 
 
 ## Scope
-*Initially the app will start as a search for homeless shelters and basic resources
+*Initially the app will start as a search for homeless shelters and basic resources:
+1.Shelters
+3.Food Banks
+4.Clothing Banks
+5.Mental Health
 
-*Could expand to job placement/searching
+*Could Expand:
+**Job placement and searching
 
-*Free medical care
+**Free dental and medical care
 
-*Mental health/crisis directory or hotline
+**Dog shelters and resources
+
+**Abuse surviviors resources 
 
 
 ## Resources 
