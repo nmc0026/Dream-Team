@@ -1,5 +1,5 @@
 # Accomodations App
-## [Pitchdeck] (https://www.canva.com/design/DAE10qHFRqg/GiYz2sST9doFQ1Z8DedP9A/view?utm_content=DAE10qHFRqg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+[Pitchdeck Link] (https://www.canva.com/design/DAE10qHFRqg/GiYz2sST9doFQ1Z8DedP9A/view?utm_content=DAE10qHFRqg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 ## Overview/Reason 
 
 Poverty, unemployment, and lack of affordable housing are commonly recognized causes of homelessness. These risk factors can be exacerbated by personal vulnerabilities such as mental and substance use disorders, trauma and violence, domestic violence, justice-system involvement, sudden serious illness, divorce, death of a partner, and disabilities.
