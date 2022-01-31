@@ -1,5 +1,5 @@
 # Accomodations App
-[Pitchdeck Link](https://www.canva.com/design/DAE10qHFRqg/GiYz2sST9doFQ1Z8DedP9A/view?utm_content=DAE10qHFRqg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+[Application Pitchdeck Link](https://www.canva.com/design/DAE10qHFRqg/GiYz2sST9doFQ1Z8DedP9A/view?utm_content=DAE10qHFRqg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 ## Overview/Reason 
 
@@ -7,15 +7,23 @@ Poverty, unemployment, and lack of affordable housing are commonly recognized ca
 Cell phones are a great way to locate resources that can help people rise out of homelessness.  This application seeks to help find open shelters in a person's region along with basic resources someone that is unsheltered might need.
 
 ## Category: Housing/Maps & Navigation
-to search for shelter availability and resources.
+Provides availability of shelters and resources in a person's region from Google Maps and Government API.
 
-## Mobile: Mobile-first, easier access to mobile devices
+## Mobile: Mobile-first
+Accessible to those that are unsheltered and can use to contact resources directly.
 
 ## Market: Experiencing or about to experience homelessness
+This appilcation is valubale to everyone, from being an advocate to those needing these services.
 
 ## Habit: Being able to find resources/shelters works as an incentive on its own
-    
-## Scope: Initially the app will start as a search for homeless shelters and basic resources; could expand to job placement/searching, free medical care, mental health/crisis directory or hotline
+Eve
+
+## Scope: 
+..*Initially the app will start as a search for homeless shelters and basic resources
+..*Could expand to job placement/searching
+..*Free medical care
+..*Mental health/crisis directory or hotline
 
 ## Resources: 
+Google Key API: https://console.cloud.google.com/
 Shelter API: https://opendata.dc.gov/datasets/homeless-shelter-locations/api
