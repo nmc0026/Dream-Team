@@ -27,12 +27,17 @@ Being able to find resources/shelters works as an incentive on its own
 
 ## Scope
 *Initially the app will start as a search for homeless shelters and basic resources:
+
 1.Shelters
+
 3.Food Banks
+
 4.Clothing Banks
+
 5.Mental Health
 
 *Could Expand:
+
 **Job placement and searching
 
 **Free dental and medical care
