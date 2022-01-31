@@ -66,7 +66,7 @@ Shelter API: https://opendata.dc.gov/datasets/homeless-shelter-locations/api
 
 
 ## Architechture
-![alt text](file:///C:/Users/ncurtis/Downloads/Accommodations%20Mobile%20App%20Pitch%20Deck%20Presentation%20(1).pdf)
+![alt text](https://www.dropbox.com/s/traajbizgmblpjn/High%20Level.PNG?dl=0)
 
 
 ## Demo
