@@ -66,7 +66,7 @@ Shelter API: https://opendata.dc.gov/datasets/homeless-shelter-locations/api
 
 
 ## Architechture
-![alt text](https://www.dropbox.com/s/traajbizgmblpjn/High%20Level.PNG?dl=0)
+![Picture](https://www.dropbox.com/s/traajbizgmblpjn/High%20Level.PNG?dl=0)
 
 
 ## Demo
