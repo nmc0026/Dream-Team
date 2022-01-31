@@ -26,7 +26,7 @@ Being able to find resources/shelters works as an incentive on its own
 
 
 ## Scope
-*Initially the app will start as a search for homeless shelters and basic resources:
+Initially the app will start as a search for homeless shelters and basic resources:
 
 1.Shelters
 
@@ -36,15 +36,15 @@ Being able to find resources/shelters works as an incentive on its own
 
 5.Mental Health
 
-*Could Expand:
+Room to Expand:
 
-**Job placement and searching
++Job placement and searching
 
-**Free dental and medical care
++Free dental and medical care
 
-**Dog shelters and resources
++Dog shelters and resources
 
-**Abuse surviviors resources 
++Abuse surviviors resources 
 
 
 ## Resources 
