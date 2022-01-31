@@ -24,10 +24,14 @@ Eve
 
 ## Scope: 
 *Initially the app will start as a search for homeless shelters and basic resources
+
 *Could expand to job placement/searching
+
 *Free medical care
+
 *Mental health/crisis directory or hotline
 
 ## Resources: 
 Google Key API: https://console.cloud.google.com/
+
 Shelter API: https://opendata.dc.gov/datasets/homeless-shelter-locations/api
