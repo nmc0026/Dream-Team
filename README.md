@@ -6,9 +6,12 @@
 Poverty, unemployment, and lack of affordable housing are commonly recognized causes of homelessness. These risk factors can be exacerbated by personal vulnerabilities such as mental and substance use disorders, trauma and violence, domestic violence, justice-system involvement, sudden serious illness, divorce, death of a partner, and disabilities.
 Cell phones are a great way to locate resources that can help people rise out of homelessness.  This application seeks to help find open shelters in a person's region along with basic resources someone that is unsheltered might need.
 
+
+
 ## Category
 ### Housing/Maps & Navigation
 Provides availability of shelters and resources in a person's region from Google Maps and Government API.
+
 
 
 ## Access
@@ -16,14 +19,17 @@ Provides availability of shelters and resources in a person's region from Google
 Accessible to those that are unsheltered and can use to contact resources directly.
 
 
+
 ## Market
 ### Experiencing or about to experience homelessness
 This appilcation is valubale to everyone, from being an advocate to those needing these services.
 
 
+
 ## Habit
 ### Avaiable 24/7/365
 Being able to find resources/shelters works as an incentive on its own
+
 
 
 ## Scope
@@ -38,6 +44,7 @@ Initially the app will start as a search for homeless shelters and basic resourc
 
 5. Mental Health
 
+
 ### Room to Expand:
 
 + Job placement and searching
@@ -51,13 +58,16 @@ Initially the app will start as a search for homeless shelters and basic resourc
 + Government to take this on in their own cities 
 
 
+
 ## Resources 
 Google Key API: https://console.cloud.google.com/
 
 Shelter API: https://opendata.dc.gov/datasets/homeless-shelter-locations/api
 
 
+
 ## Demo
+
 
 
 # Dream Team Credits 
