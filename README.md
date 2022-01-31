@@ -1,4 +1,4 @@
-# Dream Team
+## Dream Team
 # Accomodations App
 
 Poverty, unemployment, and lack of affordable housing are commonly recognized causes of homelessness. These risk factors can be exacerbated by personal vulnerabilities such as mental and substance use disorders, trauma and violence, domestic violence, justice-system involvement, sudden serious illness, divorce, death of a partner, and disabilities.
