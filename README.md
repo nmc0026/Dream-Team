@@ -22,10 +22,12 @@ This appilcation is valubale to everyone, from being an advocate to those needin
 
 
 ## Habit
+### Avaiable 24/7/365
 Being able to find resources/shelters works as an incentive on its own
 
 
 ## Scope
+### Usage of the application now and beyond 
 Initially the app will start as a search for homeless shelters and basic resources:
 
 1. Shelters
@@ -46,6 +48,8 @@ Initially the app will start as a search for homeless shelters and basic resourc
 
 + Abuse surviviors resources 
 
++ Government to take this on in their own cities 
+
 
 ## Resources 
 Google Key API: https://console.cloud.google.com/
@@ -64,6 +68,6 @@ Shelter API: https://opendata.dc.gov/datasets/homeless-shelter-locations/api
 | Abraham       | Utilities     | 
 | Ahmed         | Network       | 
 | Keyara        | ML/AI         |
-| Sisly         | aPersistence  |
+| Sisly         | Persistence   |
 | Amadou        | ML/AI         |
 | All           | UI/UX         |
