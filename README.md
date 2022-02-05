@@ -1,4 +1,4 @@
-# Accomodations App
+# Accommodations App
 [Application Pitchdeck Link](https://www.canva.com/design/DAE10qHFRqg/GiYz2sST9doFQ1Z8DedP9A/view?utm_content=DAE10qHFRqg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 ## Overview/Reason 
