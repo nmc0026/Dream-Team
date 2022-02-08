@@ -73,7 +73,4 @@ Shelter API: https://opendata.dc.gov/datasets/homeless-shelter-locations/api
 | Natalie       | Network       | 
 | Abraham       | Utilities     | 
 | Ahmed         | Network       | 
-| Keyara        | ML/AI         |
-| Sisly         | Persistence   |
-| Amadou        | ML/AI         |
 | All           | UI/UX         |
