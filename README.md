@@ -72,5 +72,5 @@ Shelter API: https://opendata.dc.gov/datasets/homeless-shelter-locations/api
 | ------------- |:----------------------------------------------------------:| 
 | Natalie       | Navigation Component/ Activity/ Repos/ UI/UX               | 
 | Abraham       | Retrofit/ Room database/REST Web Services/ Images UI/UX    | 
-| Ahmed         | Navigation Component/ Activity/ Repos/ UI/UX               | 
+| Ahmed         | Fragments/ API/ RecyclerView/ Packages/ UI/UX              | 
 
