@@ -68,9 +68,9 @@ Shelter API: https://opendata.dc.gov/datasets/homeless-shelter-locations/api
 
 # Dream Team Credits 
 
-| Names         | Package       |
-| ------------- |:-------------:| 
-| Natalie       | Network       | 
-| Abraham       | Utilities     | 
-| Ahmed         | Network       | 
-| All           | UI/UX         |
+| Names         |                     Package                                |
+| ------------- |:----------------------------------------------------------:| 
+| Natalie       | Navigation Component/ Activity/ Repos/ UI/UX               | 
+| Abraham       | Retrofit/ Room database/REST Web Services/ Images UI/UX    | 
+| Ahmed         | Navigation Component/ Activity/ Repos/ UI/UX               | 
+
